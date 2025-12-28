@@ -57,7 +57,6 @@ This project uses **Docker** and **GitHub Actions** to automate building and dep
 - GitHub Actions workflow: `.github/workflows/docker.yml`  
 - Images are automatically rebuilt and pushed on every commit to `main`.  
 
-![CI/CD Workflow](./A_flowchart_infographic_illustrates_the_DevOps_CI/.png)
 
 
 
