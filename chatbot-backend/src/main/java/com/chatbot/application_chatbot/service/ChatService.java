@@ -46,7 +46,7 @@ public class ChatService {
 
         } catch (Exception e) {
             e.printStackTrace();
-            return "⚠️ Sorry, I couldn’t process your request right now.";
+            return "Sorry, I couldn’t process your request right now.";
         }
     }
 }
